@@ -1,0 +1,6 @@
+{
+	"address":"TPKhoarane@outlook.com"
+	"filepath":"C:\Users\tkhoa\Documents\UiPath\Tobor Inc Automation\Dummy Data.xlsx"
+	"subject":"Sad to see you go"
+	"body":"We have removed your details from our register, We hope to see you back soon."
+}

@@ -1,0 +1,6 @@
+{
+	"filepath":"C:\Users\tkhoa\Documents\UiPath\Tobor Inc Automation\Dummy Data.xlsx",
+	"address":"TPKhoarane@outlook.com",
+	"subject1":"Welcome New User",
+	"body":"Your account has been created and preferences stored"
+}
